@@ -1,0 +1,86 @@
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\ApplicationInsights.config
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\roslyn\csc.exe
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\roslyn\vbc.exe
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\roslyn\VBCSCompiler.exe
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\wikicontent.dll.config
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\wikicontent.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\wikicontent.pdb
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\Microsoft.AI.Web.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\Microsoft.ApplicationInsights.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\Microsoft.AI.Web.xml
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\Microsoft.ApplicationInsights.xml
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\obj\Debug\wikicontent.csprojResolveAssemblyReference.cache
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\obj\Debug\wikicontent.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\obj\Debug\wikicontent.pdb
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\Newtonsoft.Json.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\System.Net.Http.Extensions.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\System.Net.Http.Formatting.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\System.Net.Http.Primitives.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\WebApiContrib.Formatting.JavaScriptSerializer.dll
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\Newtonsoft.Json.xml
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\System.Net.Http.Extensions.xml
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\System.Net.Http.Formatting.xml
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\bin\System.Net.Http.Primitives.xml
+c:\users\mmadiraj\documents\visual studio 2015\Projects\wikicontent\wikicontent\obj\Debug\wikicontent.csproj.App.config
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\ApplicationInsights.config
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\roslyn\csc.exe
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\roslyn\vbc.exe
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\roslyn\VBCSCompiler.exe
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\wikicontent.dll.config
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\wikicontent.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\wikicontent.pdb
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\Microsoft.AI.Web.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\Newtonsoft.Json.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\System.Net.Http.Extensions.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\System.Net.Http.Formatting.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\System.Net.Http.Primitives.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\WebApiContrib.Formatting.JavaScriptSerializer.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\Microsoft.AI.Web.xml
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\Newtonsoft.Json.xml
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\System.Net.Http.Extensions.xml
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\System.Net.Http.Formatting.xml
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\bin\System.Net.Http.Primitives.xml
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\obj\Debug\wikicontent.csproj.App.config
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\obj\Debug\wikicontent.csprojResolveAssemblyReference.cache
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\obj\Debug\wikicontent.dll
+C:\Users\mmadiraj\Downloads\Employer Branding\wikicontent\wikicontent\obj\Debug\wikicontent.pdb
