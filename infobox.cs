@@ -50,7 +50,7 @@ namespace wikicontent
             {
                 string url = "https://en.wikipedia.org/wiki/" + company.Trim(); // API Call
                 HtmlWeb hw = new HtmlWeb();
-                HtmlDocument doc = hw.Load(url);
+                HtmlDocument doc = hw.Load(url); // loading html document
                 var table = doc.DocumentNode.SelectNodes("//table")[0];
                 sb.Append("<tr><td>" + company + "</td><td>" + table.OuterHtml + "</td></tr>");
             }
