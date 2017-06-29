@@ -52,7 +52,7 @@ namespace wikicontent
             foreach (string company in companies)
             {
                 string url = "http://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&format=json&titles=" + company.Trim();
-                HttpClient client = new HttpClient();
+                HttpClient client = new HttpClient();   // setting new http client
                 HttpResponseMessage response = client.GetAsync(url).Result;
                 var responseJson = JsonConvert.DeserializeObject<RootObject>(response.Content.ReadAsStringAsync().Result);
                 var firstKey = responseJson.query.pages.First().Key;
