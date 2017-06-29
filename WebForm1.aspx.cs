@@ -55,7 +55,7 @@ namespace wikicontent
                 HttpClient client = new HttpClient();   // setting new http client
                 HttpResponseMessage response = client.GetAsync(url).Result;
                 var responseJson = JsonConvert.DeserializeObject<RootObject>(response.Content.ReadAsStringAsync().Result);
-                var firstKey = responseJson.query.pages.First().Key;
+                var firstKey = responseJson.query.pages.First().Key;  // capturing json response
                 var title = responseJson.query.pages[firstKey].title;
                 Object revision = responseJson.query.pages[firstKey].revisions[0];
                 var extract = revision.GetType().GetProperty("*").GetValue(revision, null);
