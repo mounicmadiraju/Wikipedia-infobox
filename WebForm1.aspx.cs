@@ -43,7 +43,7 @@ namespace wikicontent
         {
             public string batchcomplete { get; set; }
             public Query query { get; set; }
-            //public Limits limits { get; set; }
+           
         }
 
         protected void Button1_Click(object sender, EventArgs e)
