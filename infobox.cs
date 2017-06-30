@@ -51,7 +51,7 @@ namespace wikicontent
                 HtmlWeb hw = new HtmlWeb();
                 HtmlDocument doc = hw.Load(url); // loading html document
                 var table = doc.DocumentNode.SelectNodes("//table")[0];
-                sb.Append("<tr><td>" + company + "</td><td>" + table.OuterHtml + "</td></tr>");
+                sb.Append("<tr><td>" + company + "</td><td>" + table.OuterHtml + "</td></tr>"); // Appending the output
             }
             result.InnerHtml = sb.ToString();
         }
