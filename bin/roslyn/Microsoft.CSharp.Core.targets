@@ -1,4 +1,6 @@
-﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+// Author mounicraju@gmail.com //
+
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Target
           Name="CoreCompile"
           Inputs="$(MSBuildAllProjects);
