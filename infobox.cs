@@ -1,4 +1,3 @@
-// Author mounicraju@gmail.com
 
 using HtmlAgilityPack;
 using Newtonsoft.Json;
