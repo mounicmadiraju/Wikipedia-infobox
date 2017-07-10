@@ -46,7 +46,7 @@ namespace wikicontent
             StringBuilder sb = new StringBuilder();
             foreach (string company in companies)
             {
-                string url = "https://en.wikipedia.org/wiki/" + company.Trim(); // API Call
+                string url = "https://en.wikipedia.org/wiki/" + company.Trim(); // to call API
                 HtmlWeb hw = new HtmlWeb();
                 HtmlDocument doc = hw.Load(url); // loading html document
                 var table = doc.DocumentNode.SelectNodes("//table")[0];
